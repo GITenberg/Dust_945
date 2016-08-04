@@ -1,0 +1,36 @@
+_repo: Dust_945
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Haldeman-Julius, Marcet
+    alias: Haldeman-Julius, Anna Marcet Haldeman
+    birthdate: 1887
+    deathdate: 1941
+    gutenberg_agent_id: '487'
+    url: http://www.gutenberg.org/2009/agents/487
+  - agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Haldeman-Julius, Emanuel
+    - Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Dust
+url: http://www.gutenberg.org/ebooks/945
